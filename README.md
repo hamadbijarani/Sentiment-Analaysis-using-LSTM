@@ -1,5 +1,7 @@
 # Sentiment Analysis using BiLSTM with Attention
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hamadbijarani/Sentiment-Analysis-using-LSTM/blob/main/Sentiment_analysis.ipynb)
+
 This project implements a Sentiment Analysis pipeline using a Bi-directional LSTM (BiLSTM) model with an attention mechanism. It leverages pre-trained GloVe word embeddings and TensorFlow/Keras to classify the sentiment of text (e.g., movie reviews) as **positive** or **negative**.
 
 ## 🚀 Project Highlights
